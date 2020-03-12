@@ -1808,7 +1808,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4861502165545888}
   m_Layer: 0
-  m_Name: Vplayer 1
+  m_Name: Vplayer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -8,7 +8,7 @@ Toggle allowing others (non-Master) to enter links
 Toggle allowing others (non-Master) to control the player
 Full set of player control buttons
 Local volume slider
-Music Player (No video support) - Coming Soon in 1.2
+separate Music Only Player (No video support)
 
 If you want more features like: 
 Toggle between old (VRCSyncVideo) and new (VRCSyncVideoStream) player

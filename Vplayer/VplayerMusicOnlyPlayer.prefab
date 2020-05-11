@@ -729,7 +729,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4520446155271990}
   m_Layer: 0
-  m_Name: VplayerMusic
+  m_Name: VplayerMusicOnlyPlayer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -26,4 +26,7 @@ VPplayer is only for SDK V2 and can not be used with SDK V3 (Udon).
 Just download the latest release, open it up in Unity and plop the Vplayer prefab down, it should just work.
 
 ##### No videos are playing?:
-Ensure you YouTube-DL is upto date, this is the cause of 99% of video player issues in Unity.Vplayer is a much more simplified version of Hangout-Player and only has the following features:
+Ensure you YouTube-DL is upto date, this is the cause of 99% of video player issues in Unity.
+
+##### I still having issues using the player?:
+Open up an issue ticket, I will try to help!

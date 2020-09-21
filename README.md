@@ -1,10 +1,11 @@
 # VPlayer
 
+**NOTICE! As I no longer play VRC much anymore I have decided to abandon devlopment of VPlayer, Currently as of VRChat version 2020.3.3 Build 992 the player still works, however I cannot guarantee it will work in future updates of VRChat.**
+
 Thank you for choosing VPlayer, is a video player for VRchat which is based off MunifiSense Hangout-Player: https://github.com/MunifiSense/Hangout-Player (Mainly used in my worlds) This is only for VRChat and can't be used anywhere else.
 
 VPplayer is only for SDK V2 and can not be used with SDK V3 (Udon).
 
-**PLEASE NOTE VPLAYER WILL BE RE-DONE SOON TO ALLOW MORE FEATURES IN VERSION 2.0**
 ##### Vplayer is a much more simplified version of Hangout-Player and only has the following features:
 
 - Master only control.
